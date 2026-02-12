@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋, I'm Suhail!
 
-<!--
-**suhailsola/suhailsola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on a lifelong journey as a developer, always looking for new challenges and ways to improve my skills.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning CI/CD pipelines and DevOps
+- Working on learning Java and Spring Boot
+
+### 🌱 Currently learning
+
+- System design
+- Cloud
+
+### 💻 Tech Stack
+
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,github,vscode,docker" />
+</a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhailsola&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailsola&theme=radical" />
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailsola&layout=compact&theme=radical" />
+</a>
+</p>
+
+⚡ Fun fact: If I am not here, I am probably doing something else
