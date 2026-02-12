@@ -39,7 +39,7 @@ I'm on a lifelong journey as a developer, always looking for new challenges and 
 
 ### 🛠️ Weekly Coding Activity
 
-<!-- linux-stats: start -->
-<!-- linux-stats: end -->
+<!-- START_SECTION:linux-stats -->
+<!-- END_SECTION:linux-stats -->
 
 ⚡ Fun fact: If I am not here, I am probably doing something else
