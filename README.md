@@ -39,7 +39,7 @@ I'm on a lifelong journey as a developer, always looking for new challenges and 
 
 ### 🛠️ Weekly Coding Activity
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ⚡ Fun fact: If I am not here, I am probably doing something else
