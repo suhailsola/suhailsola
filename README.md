@@ -23,18 +23,23 @@ I'm on a lifelong journey as a developer, always looking for new challenges and 
 ### 📊 GitHub Stats
 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/suhailsola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhailsola&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+<a href="https://github.com/suhailsola">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailsola&theme=radical" />
 </a>
 </p>
 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/suhailsola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailsola&layout=compact&theme=radical" />
 </a>
 </p>
+
+### 🛠️ Weekly Coding Activity
+
+<!-- linux-stats: start -->
+<!-- linux-stats: end -->
 
 ⚡ Fun fact: If I am not here, I am probably doing something else
