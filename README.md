@@ -40,6 +40,15 @@ I'm on a lifelong journey as a developer, always looking for new challenges and 
 ### 🛠️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 04 February 2026 - To: 11 February 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ⚡ Fun fact: If I am not here, I am probably doing something else
