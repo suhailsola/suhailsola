@@ -26,3 +26,5 @@ jobs:
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          IGNORED_LANGUAGES: JSON Markdown YAML Text
+          CODE_LANG: rust
