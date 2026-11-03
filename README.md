@@ -45,18 +45,18 @@ I'm on a lifelong journey as a developer, always looking for new challenges and 
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 October 2026 - To: 01 November 2026
+From: 26 October 2026 - To: 02 November 2026
 
-Total Time: 6 hrs 54 mins
+Total Time: 3 hrs 50 mins
 
-CSS           2 hrs 45 mins         ██████████░░░░░░░░░░░░░░░   39.96 %
-Astro         1 hr 37 mins          ██████░░░░░░░░░░░░░░░░░░░   23.54 %
-TypeScript    1 hr                  ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Other         22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Python        10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Git Config    6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Image (svg)   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Bash          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+CSS           1 hr 28 mins          █████████▓░░░░░░░░░░░░░░░   38.46 %
+TypeScript    56 mins               ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+Astro         34 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Git Config    6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Other         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Image (svg)   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Bash          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Docker        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
