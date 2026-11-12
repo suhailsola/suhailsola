@@ -45,17 +45,17 @@ I'm on a lifelong journey as a developer, always looking for new challenges and 
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 November 2026 - To: 10 November 2026
+From: 04 November 2026 - To: 11 November 2026
 
-Total Time: 3 hrs 2 mins
+Total Time: 3 hrs 15 mins
 
-TypeScript   43 mins               ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-Other        37 mins               █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-HTML         29 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-SCSS         24 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Groovy       10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-JavaScript   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        1 hr 1 min            ████████░░░░░░░░░░░░░░░░░   31.42 %
+HTML         29 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+SCSS         25 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+TypeScript   23 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+Groovy       12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+JavaScript   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Diff         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
