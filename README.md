@@ -45,17 +45,16 @@ I'm on a lifelong journey as a developer, always looking for new challenges and 
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 November 2026 - To: 17 November 2026
+From: 11 November 2026 - To: 18 November 2026
 
-Total Time: 2 hrs 56 mins
+Total Time: 5 hrs 24 mins
 
-TypeScript   35 mins               █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-Other        31 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-Groovy       13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-HTML         8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-SCSS         6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-CocoaPods    2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   1 hr 50 mins          ████████▓░░░░░░░░░░░░░░░░   34.03 %
+HTML         24 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+SCSS         18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Groovy       12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other        8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
