@@ -45,18 +45,18 @@ I'm on a lifelong journey as a developer, always looking for new challenges and 
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 November 2026 - To: 25 November 2026
+From: 19 November 2026 - To: 26 November 2026
 
-Total Time: 6 hrs 15 mins
+Total Time: 3 hrs 42 mins
 
-TypeScript       2 hrs 23 mins         █████████▓░░░░░░░░░░░░░░░   38.26 %
-PHP              39 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Blade Template   26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Other            17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Bash             13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-HTML             9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-SCSS             5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Image (svg)      5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+PHP              39 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+TypeScript       30 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Blade Template   26 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Bash             13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Other            12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+HTML             9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+SCSS             5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Image (svg)      5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
